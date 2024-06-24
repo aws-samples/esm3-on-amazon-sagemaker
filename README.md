@@ -1,11 +1,7 @@
-## My Project
+## EvolutionaryScale ESM3 on Amazon SageMaker
 
-TODO: Fill this README out!
+This repository contains the sample notebooks to run EvolutionaryScale's ESM3 biological model on Amazon SageMaker.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
