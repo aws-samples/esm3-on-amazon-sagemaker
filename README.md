@@ -10,6 +10,9 @@ ESM3 is a frontier generative model for biology, able to jointly reason across t
 
 The ESM3 architecture is highly scalable due to its transformer backbone and all-to-all reasoning over discrete token sequences. At its largest scale, ESM3 was trained with 1.07e24 FLOPs on 2.78 billion proteins and 771 billion unique tokens, and has 98 billion parameters. Here we present `esm3-open-small`. With 1.4B parameters it is the smallest and fastest model in the family, trained specifically to be open sourced.
 
+### Notebooks in this repository 
+* [Deploy ESM3-open Model Package from AWS Marketplace ](esm3-sagemaker-sample-notebook.ipynb)
+
 
 ## Security
 
