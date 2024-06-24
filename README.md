@@ -14,6 +14,11 @@ The ESM3 architecture is highly scalable due to its transformer backbone and all
 * [Deploy ESM3-open Model Package from AWS Marketplace ](esm3-sagemaker-sample-notebook.ipynb)
 
 
+### About EvolutionaryScale
+
+EvolutionaryScale is a frontier AI research lab and Public Benefit Corporation dedicated to developing artificial intelligence for the life sciences. EvolutionaryScale’s models support groundbreaking research and development in health, environmental science, and beyond. The company was founded in July 2023, with a founding team widely recognized for its pioneering work in transformer protein language models. For more information, visit https://evolutionaryscale.ai
+
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
