@@ -1,0 +1,19 @@
+attrs
+biotite
+biopython 
+boto3
+brotli
+cloudpathlib
+einops
+ipykernel 
+ipython
+ipywidgets
+matplotlib 
+msgpack-numpy
+pandas
+pillow 
+py3dmol 
+scikit-learn
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+tqdm
