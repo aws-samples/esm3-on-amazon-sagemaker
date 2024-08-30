@@ -1,5 +1,5 @@
 attrs
-biotite
+biotite==0.41.2
 biopython 
 boto3
 brotli
