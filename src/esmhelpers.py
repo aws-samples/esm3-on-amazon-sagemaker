@@ -102,7 +102,7 @@ def color_amino_acid(res, color_scheme_name="flower"):
             "-": "#FFFFFF",
             "|": "#FFFFFF",
             "_": "#000000",
-            "✔": "#FFFFFF",
+            "✔": "#FF9900",
         }
     )
     return color_text(res, color_map[res])
